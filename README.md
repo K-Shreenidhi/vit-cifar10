@@ -1,6 +1,6 @@
-# Vision Transformer from Scratch — CIFAR-10
+# Vision Transformer from Scratch - CIFAR-10
 
-I implemented a Vision Transformer completely from scratch for this assignment —
+I implemented a Vision Transformer completely from scratch for this assignment -
 patch embedding, CLS token, positional embeddings, multi-head self-attention, MLP,
 residual connections, and LayerNorm are all hand-written (no `nn.MultiheadAttention`,
 `nn.TransformerEncoder`, `F.scaled_dot_product_attention`, or pretrained weights).
